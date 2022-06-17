@@ -1,2 +1,3 @@
-# WAX_P2E_Game_blockbunies_contract
+# WAX P2E Game NFT Staking
+
 staking, unstaking, claim, with NFT, NFT pack
